@@ -12,7 +12,7 @@ This repository includes:
 ## 📂 Project List  
 | Project | Description | Status |
 |---------|------------|--------|
-| [Pi-hole with Docker](projects/pihole-dns.md) | Setting up Pi-hole and Nginx Proxy Manager | ✅ Completed |
+| [Pi-hole with Docker](projects/rpi01-docker-nginx-pihole.md) | Setting up Pi-hole and Nginx Proxy Manager | ✅ Completed |
 | [Wireshark Packet Analysis](projects/wireshark-notes.md) | Capturing and analyzing network traffic | 🛠️ In Progress |
 | [Python Network Automation](projects/python-network.md) | Automating configurations and log analysis | 🔜 Planned |
 
