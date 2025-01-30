@@ -13,8 +13,6 @@ This project documents my setup of Pi-hole as a DNS server alongside Nginx Proxy
 #### **Install Raspberry Pi OS Lite (32-bit) to microSD card**
 Navigate to Raspberry Pi's Imager site (https://www.raspberrypi.com/software/) to download the version compatible with your OS. In my case that is Windows
 
-![Screenshot 2025-01-29 213705](https://github.com/user-attachments/assets/26ddfa1c-3fe7-4f61-8d26-d3ab73fa65db)
-
 Once Imager is installed, make sure microSD card is connected to computer/device, open the program and you should see a screen like below
 
 ![Screenshot 2025-01-29 214155](https://github.com/user-attachments/assets/7bddf448-4601-4ce8-be58-4aa3006bdafb)
