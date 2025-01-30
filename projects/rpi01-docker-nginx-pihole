@@ -54,9 +54,16 @@ If using the public-key option, you'll need to click the "RUN SSH-KEYGEN" button
 ![Screenshot 2025-01-29 220002](https://github.com/user-attachments/assets/c29551f9-b823-4e10-a86a-ef4273ece491)
 
 After clicking the "Save" button at the bottom of the window, I then clicked "Yes" to apply the OS customization settings.
-Then an window appeared informing me that all data will be erased from the microSD card to overwrite with the Pi OS Lite image selected. I clicked "Yes" to ensure I want to continue. 
+Then a window appeared informing me that all data will be erased from the microSD card to overwrite with the Pi OS Lite image selected. I clicked "Yes" to ensure I want to continue. 
 I then received an error stating that the install required at least 2.6GB of space, so I was unable to write my demo OS to the 1GB microSD card.
 However, having done this previously, the process takes several minutes to complete. Once complete I remove the microSD card from the reader, insert it into the Pi Zero 2 W, and connect the Cat6 cable which powers on the device.
+
+After taking a moment to boot up, if you haven't already manually assigned the IP address for the Pi within your router, now would be a good time to do so. I have the best luck changing IP addresses by setting the manual IP address to the desired address within the router's (ASUS RT-AX86U_Pro) LAN > DHCP settings, then unplugging the Pi device, rebooting the router, then reconnecting the Pi device and it should have set the IP to what you set.
+
+After allowing the Pi to boot up using the customized OS, I opened Windows Powershell and entered:
+```bash 
+ssh demouser1@demopi1.local
+```
 #### **Install Docker & Docker Compose**  
 ```bash
 sudo apt update && sudo apt upgrade -y
