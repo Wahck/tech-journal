@@ -12,9 +12,10 @@ This repository includes:
 ## 📂 Project List  
 | Project | Description | Status |
 |---------|------------|--------|
-| [Pi-hole with Docker](projects/rpi01-docker-nginx-pihole.md) | Setting up Pi-hole and Nginx Proxy Manager | ✅ Completed |
+| [Nginx Proxy Manager & Pi-hole with Docker](projects/rpi01-docker-nginx-pihole.md) | Setting up Pi-hole and Nginx Proxy Manager with Docker on Raspberry Pi Zero 2W | ✅ Completed |
+| [2nd Pi-hole DNS Server](projects/rpi02-pihole.md) | Setting up 2nd Pi-Hole DNS Server on Raspberry Pi Zero 2W | ✅ Completed |
 | [Wireshark Packet Analysis](projects/wireshark-notes.md) | Capturing and analyzing network traffic | 🛠️ In Progress |
-| [Python Network Automation](projects/python-network.md) | Automating configurations and log analysis | 🔜 Planned |
+| [Python Network Automation](projects/python-network-automation.md) | Automating configurations and log analysis | 🔜 Planned |
 
 ## 🚀 How to Use  
 - Browse the `/projects` directory for full documentation on each setup.  
