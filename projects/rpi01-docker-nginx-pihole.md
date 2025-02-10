@@ -1,7 +1,7 @@
 # Pi-hole & Nginx Proxy Manager with Docker
 
 ## 📝 Overview  
-"I set up a Raspberry Pi Zero 2 W by first installing Docker and deploying Nginx Proxy Manager within a Docker container. Alongside Docker, I installed Pi-hole to serve as the network's primary DNS server."
+I set up a Raspberry Pi Zero 2 W by first installing Docker and deploying Nginx Proxy Manager within a Docker container. Alongside Docker, I installed Pi-hole to serve as the network's primary DNS server.
 
 ## 🔧 Setup Details  
 ### **1. System & Software**  
