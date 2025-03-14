@@ -28,8 +28,8 @@ This project details the setup of **pfSense as the primary firewall and router**
 | **Access Points** | 2x UniFi U6 Lite |
 | **UniFi Controller** | Docker on HP ProBook (considering alternatives) |
 | **Switches** | Managed VLAN-capable switches (TP-Link 28-port and 8-port) |
-| **Software** | pfSense, UniFi Controller, VLAN configurations |
-| **Dependencies** | Docker (if running UniFi Controller in a container) |
+| **Software** | pfSense, UniFi Controller, VLAN configurations, UnRaid/Docker |
+| **Dependencies** | UnRaid/Docker (if running UniFi Controller in a container) |
 
 ## 🚀 Installation & Setup
 ### 1️⃣ Install & Configure pfSense
