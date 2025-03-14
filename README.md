@@ -15,7 +15,7 @@ This repository includes:
 | [Nginx Proxy Manager & Pi-hole with Docker](projects/rpi01-docker-nginx-pihole.md) | Setting up Pi-hole and Nginx Proxy Manager with Docker on Raspberry Pi Zero 2W | ✅ Completed |
 | [2nd Pi-hole DNS Server](projects/rpi02-pihole.md) | Setting up 2nd Pi-Hole DNS Server on Raspberry Pi Zero 2W | ✅ Completed |
 | [Home Assistant on Proxmox VE](projects/haos-pve.md) | Set up Home Assistant OS on Proxmox Virtual Environment within a Virtual Machine | ✅ Completed | 
-| [pfSense UniFi Home Network](projects/pfsense_unifi_network.md) | Configured segmented home network with pfSense firewall/router and UniFi APs for WiFi | ✅ Completed |
+| [pfSense UniFi Home Network](projects/pfsense-unifi-network.md) | Configured segmented home network with pfSense firewall/router and UniFi APs for WiFi | ✅ Completed |
 | [Wireshark Packet Analysis](projects/wireshark-notes.md) | Capturing and analyzing network traffic | 🛠️ In Progress |
 | [Python Network Automation](projects/python-network-automation.md) | Automating configurations and log analysis | 🔜 Planned |
 | [Network Monitoring](projects/network-monitor.md) | Setting up a Syslog server and other tools to analyze & monitor network/devices | 🛠️ In Progress |
